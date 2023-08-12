@@ -45,4 +45,4 @@ npm run rewards-dev 0x3e40D73EB977Dc6a537aF587D48316feE66E9C8c
 
 ### output example
 
-![rewards history output example](https://hackmd.io/_uploads/SJ9ZvTEhn.png)
+![rewards history output example](stdout-exmpl.png?raw=true "Rewards History output")
