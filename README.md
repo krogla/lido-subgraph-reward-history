@@ -14,9 +14,9 @@ npm install
 
 ### configure
 
-Copy the `.env.example` file to `.env` and if needed modify `SUBGRAPH_URL` var to point on mainnet Lido Subgraph query endpoint.
+Copy the `.env.example` file to `.env` and if needed modify `SUBGRAPH_URL` var to point to mainnet Lido Subgraph query endpoint.
 
-By default, the url is The Graph hosted Lido Subgraph mainnet endpoint:
+By default, the URL is The Graph-hosted Lido Subgraph mainnet endpoint:
 
 ```env
 SUBGRAPH_URL=https://api.thegraph.com/subgraphs/name/lidofinance/lido
